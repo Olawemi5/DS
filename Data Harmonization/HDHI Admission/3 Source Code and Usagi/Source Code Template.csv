@@ -1,0 +1,54 @@
+﻿row ,dataset,var_name,description,code,item,count
+1,HDHI Admission data.csv,Gender,Gender,1,Male,9990
+2,HDHI Admission data.csv,Gender,Gender,2,Female,5767
+3,HDHI Admission data.csv,Residence,Area of stay,1,Urban,12077
+4,HDHI Admission data.csv,Residence,Area of stay,2,Rural,3680
+5,HDHI Admission data.csv,type_of_admission,TYPE OF ADMISSION-EMERGENCY/OPD,1,Emergency,10924
+6,HDHI Admission data.csv,type_of_admission,TYPE OF ADMISSION-EMERGENCY/OPD,2,OPD,4833
+7,HDHI Admission data.csv,outcome,Outcome,1,DISCHARGE,13756
+8,HDHI Admission data.csv,outcome,Outcome,2,EXPIRY,1105
+9,HDHI Admission data.csv,outcome,Outcome,3,DAMA,896
+10,HDHI Admission data.csv,smoking,Smoking,1,No,14964
+11,HDHI Admission data.csv,smoking,Smoking,2,Yes,793
+12,HDHI Admission data.csv,alcohol,Alcohol,1,No,14736
+13,HDHI Admission data.csv,alcohol,Alcohol,2,Yes,1021
+14,HDHI Admission data.csv,dm,Diabetes Mellitus,1,No,10660
+15,HDHI Admission data.csv,dm,Diabetes Mellitus,2,Yes,5097
+16,HDHI Admission data.csv,htn,Hypertension,1,No,8101
+17,HDHI Admission data.csv,htn,Hypertension,2,Yes,7656
+18,HDHI Admission data.csv,cad,Coronary Artery Disease,1,No,10551
+19,HDHI Admission data.csv,cad,Coronary Artery Disease,2,Yes,5206
+20,HDHI Admission data.csv,pcmp,Prior Comprehensive Metabolic Panel,1,No,13323
+21,HDHI Admission data.csv,pcmp,Prior Comprehensive Metabolic Panel,2,Yes,2434
+22,HDHI Admission data.csv,ckd,Chronic Kidney Disease,1,No,14207
+23,HDHI Admission data.csv,ckd,Chronic Kidney Disease,2,Yes,1550
+24,HDHI Admission data.csv,severe_anaemia,Severe Anaemia,1,No,15452
+25,HDHI Admission data.csv,severe_anaemia,Severe Anaemia,2,Yes,305
+26,HDHI Admission data.csv,anaemia,Anaemia,1,No,12970
+27,HDHI Admission data.csv,anaemia,Anaemia,2,Yes,2787
+28,HDHI Admission data.csv,stable_angina,Stable Angina,1,No,14468
+29,HDHI Admission data.csv,stable_angina,Stable Angina,2,Yes,1289
+30,HDHI Admission data.csv,acs,Acute coronary syndrome,1,No,9994
+31,HDHI Admission data.csv,acs,Acute coronary syndrome,2,Yes,5763
+32,HDHI Admission data.csv,stemi,ST-Elevation myocardial infarction,1,No,13555
+33,HDHI Admission data.csv,stemi,ST-Elevation myocardial infarction,2,Yes,2202
+34,HDHI Admission data.csv,aty_chestpain,ATYPICAL CHEST PAIN,1,No,15354
+35,HDHI Admission data.csv,aty_chestpain,ATYPICAL CHEST PAIN,2,Yes,403
+36,HDHI Admission data.csv,heart_failure,Heart Failure,1,No,11196
+37,HDHI Admission data.csv,heart_failure,Heart Failure,2,Yes,4561
+38,HDHI Admission data.csv,hfref,Heart Failure with reduced ejection fraction,1,No,13336
+39,HDHI Admission data.csv,hfref,Heart Failure with reduced ejection fraction,2,Yes,2421
+40,HDHI Admission data.csv,hfnef,Heart Failure with normal ejection fraction,1,No,13605
+41,HDHI Admission data.csv,hfnef,Heart Failure with normal ejection fraction,2,Yes,2152
+42,HDHI Admission data.csv,valvular,VALVULAR,1,No,15205
+43,HDHI Admission data.csv,valvular,VALVULAR,2,Yes,552
+44,HDHI Admission data.csv,chb,Congenital Heart Block,1,No,15345
+45,HDHI Admission data.csv,chb,Congenital Heart Block,2,Yes,412
+46,HDHI Admission data.csv,sss,Sick Sinus Syndrome,1,No,15650
+47,HDHI Admission data.csv,sss,Sick Sinus Syndrome,2,Yes,107
+48,HDHI Admission data.csv,aki,Acute Kidney Injury,1,No,12253
+49,HDHI Admission data.csv,aki,Acute Kidney Injury,2,Yes,3504
+50,HDHI Admission data.csv,cva_infract,Cerebral Vascular Accident Infarct,1,No,15293
+51,HDHI Admission data.csv,cva_infract,Cerebral Vascular Accident Infarct,2,Yes,464
+52,HDHI Admission data.csv,cva_bleed,Cerebral Vascular Accident Bleed,1,No,15690
+53,HDHI Admission data.csv,cva_bleed,Cerebral Vascular Accident Bleed,2,Yes,67
